@@ -837,6 +837,7 @@
   <string name="deviceTheme">Apparaatthema</string>
   <string name="roundness">Ronde hoeken</string>
   <string name="backgroundImageUrl">Achtergrondafbeelding URL:</string>
+  <string name="backgroundImageOpacity">Transparantie achtergrondafbeelding:</string>
   <string name="board">Bord</string>
   <string name="size">Grootte</string>
   <string name="opacity">Transparantie</string>

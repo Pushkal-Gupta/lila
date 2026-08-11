@@ -20,7 +20,7 @@
   </plurals>
   <string name="highscoreX">Рекорд: %s</string>
   <string name="score">Резултат</string>
-  <string name="moves">Потеза</string>
+  <string name="moves">Потези</string>
   <string name="accuracy">Прецизност</string>
   <string name="combo">Комбо</string>
   <string name="time">Време</string>
